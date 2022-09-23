@@ -2,10 +2,10 @@
 
 ## beginner 🐣
 
-| day | project                                                                                                                       | description             |
-|-----|-------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 1   | [band name generator](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/band_name_generator.py)    | user input in output    |
-| 2   | 
+| day | project                                                                                                                       | description                 |
+|-----|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| 1   | [band name generator](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/band_name_generator.py)    | learned input and f strings |
+| 2   | [tip calculator](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/tip_calculator.py)              | mathematical expressions and input |
 | 3   |
 | 4   |
 | 5   |
