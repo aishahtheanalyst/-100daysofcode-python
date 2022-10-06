@@ -10,7 +10,7 @@
 | 4   | [rock, paper, scissors](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/rock_paper_scissors.py)  | randomisation lists, and nested lists |
 | 5   | [password generator](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/password_generator.py)      | for loops, range |
 | 6   | [escaping the maze](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/escaping_the_maze.py)        | functions, while loops |
-| 7   | [hangman]
+| 7   | [hangman](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/hangman.py)                            | reviewing all concepts |
 | 8   |
 | 9   |
 | 10  |
