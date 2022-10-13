@@ -11,7 +11,7 @@
 | 5   | [password generator](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/password_generator.py)      | for loops, range |
 | 6   | [escaping the maze](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/escaping_the_maze.py)        | functions, while loops |
 | 7   | [hangman](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/hangman.py)                            | reviewing all concepts |
-| 8   |
+| 8   | [caesar cipher](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/caesar_cipher.py)                | function parameters w/input |
 | 9   |
 | 10  |
 | 11  |
