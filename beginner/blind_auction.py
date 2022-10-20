@@ -1,4 +1,4 @@
-from art import logo
+from blind_art import logo
 print(logo)
 
 bids = {}
