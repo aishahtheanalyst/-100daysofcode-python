@@ -12,7 +12,7 @@
 | 6   | [escaping the maze](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/escaping_the_maze.py)        | functions, while loops |
 | 7   | [hangman](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/hangman.py)                            | reviewing all concepts |
 | 8   | [caesar cipher](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/caesar_cipher.py)                | function parameters w/input |
-| 9   |
+| 9   | [blind auction](https://github.com/aishahtheanalyst/-100daysofcode-python/blob/main/beginner/blind_auction.py)                | dictionaries and nesting |
 | 10  |
 | 11  |
 | 13  |
